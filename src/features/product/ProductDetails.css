@@ -1,0 +1,28 @@
+.imgProduct{
+    margin-left: 62%;
+    margin-top: 5%;
+}
+.details{
+    display: flex;
+    /* width: 100%; */
+    /* justify-content:space-evenly; */
+    position: "fixed"; top: 0;left:"50vw"; width: "100vw"; height: "50vh" ;background-color:"pink";
+}
+.desc1{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 20%;
+}
+.desc3{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 27%; 
+    font-size: large; 
+
+}
+
+.cart-button{
+    border-collapse: collapse;
+    border: none;
+    background-color: rgb(214, 147, 158);
+}

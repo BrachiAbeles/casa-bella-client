@@ -1,0 +1,12 @@
+.flex-picture
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    /* justify-content: center; */
+    
+}
+
+/* .picture:hover {
+    transform: translateY(-5px);
+} */
+ 
